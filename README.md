@@ -1,4 +1,4 @@
-# Hello-World
+﻿# Hello-World
 Introduce Myself
 
 ##基本资料
@@ -10,7 +10,7 @@ Introduce Myself
 
 ##兴趣爱好    
 
-* 热爱ACM竞赛，但是目前还没有什么成绩    
+* ACM蒟蒻，算是入门吧    
 * 喜欢交友，健谈，乐于助人    
 * 喜欢音乐，吉他ACG指弹，不会唱歌    
 * 喜欢看治愈系和侦探型动漫或者电影，不看综艺节目    
