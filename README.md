@@ -26,4 +26,4 @@
 * 2016.10 Intel IoT 创客coding竞赛 二等奖（智慧物联项目）
 
 ### 我的社区
- [**Github**](https://github.com/EStormLynn) | [**Blog**](http://www.cnblogs.com/SeekHit/) | [**Weibob**](http://weibo.com/u/2462549935?refer_flag=1001030102_) | [**知乎**](https://www.zhihu.com/people/si-hu-hu) |
+ [**Github**](https://github.com/EStormLynn) | [**Blog**](http://www.cnblogs.com/SeekHit/) | [**Weibo**](http://weibo.com/u/2462549935?refer_flag=1001030102_) | [**知乎**](https://www.zhihu.com/people/si-hu-hu) |
